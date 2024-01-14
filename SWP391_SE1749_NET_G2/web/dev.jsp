@@ -1,7 +1,7 @@
 <%-- 
-    Document   : newjsp
-    Created on : Jan 14, 2024, 9:59:40 PM
-    Author     : QUYBINH
+    Document   : dev
+    Created on : Jan 5, 2024, 12:40:15 AM
+    Author     : nghia
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Binhdeptraivl</h1>
+        <h1>Hello World!</h1>
+        <h2>jojo</h2>
     </body>
 </html>
